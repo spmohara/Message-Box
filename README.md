@@ -52,6 +52,7 @@ mbox.show(title='My Message Box', text='My message', icon='ICONERROR')
 
 # Dependencies
 - Python 3.x
+- Windows
 
 # License
 Licensed under the [MIT License](LICENSE)
